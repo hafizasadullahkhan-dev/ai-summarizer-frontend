@@ -1,3 +1,8 @@
+🔗 **Live Demo:https://ai-summarizer-frontend-beige.vercel.app/
+⚙️ **Backend API:https://ai-summarizer-app.hostless.app
+![AI Summarizer Screenshot]<img width="1107" height="690" alt="Screenshot 2026-11-07 230432" src="https://github.com/user-attachments/assets/af6f9b83-4dc2-40e2-9fc0-9ea8372d940c" />
+
+
 # AI Text Summarizer - Frontend
 
 A modern, responsive, and highly interactive React application that turns long articles and text into concise summaries using the power of AI.
